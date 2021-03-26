@@ -889,3 +889,9 @@ textarea:focus, input:focus{
    margin: 14px;
    overflow: hidden;
 }
+.underline {
+    text-decoration: underline;
+}
+.padding-team-intro-txt {
+    padding: 27px;
+}
